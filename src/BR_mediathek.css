@@ -3,8 +3,12 @@
 }
 
 .logo {
-  background-image: url(logo.svg);
+  background-image: url(logo.png);
   -webkit-animation: fadein 1s;
+}
+
+.splash {
+  background-image: url(splash.svg);
 }
 
 .progressBar {
