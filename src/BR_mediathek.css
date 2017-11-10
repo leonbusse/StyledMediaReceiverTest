@@ -1,10 +1,10 @@
 .background {
-  background-color: rgb(3,51,70);
+  background-color: rgb(0,0,0);
 }
 
 .logo {
   background-color: rgb(3,51,70);
-  background-image: url(splash.png);
+  background-image: url(splash.svg);
   -webkit-animation: fadein 1s;
 }
 
